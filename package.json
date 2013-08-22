@@ -1,0 +1,18 @@
+{
+    "name": "node-kibana",
+    "version": "0.0.1",
+    "private": false,
+    "dependencies": {
+        "express": "3.3.5"
+    },
+    "description": "A simple node server for kibana 3",
+    "main": "app.js",
+    "devDependencies": {},
+    "keywords": ["kibana", "elastic search", "elasticsearch"],
+    "author": "Pedro Narciso García Revington",
+    "license": "apache 2",
+    "scripts": {
+        "preinstall": "git submodule update --init",
+        "start": "./server.js"
+    }
+}
