@@ -1,6 +1,7 @@
 # node-kibana
 
-Just a node.js server to run [kibana](https://github.com/elasticsearch/kibana)
+Just a node.js server to run [kibana](https://github.com/elasticsearch/kibana).  
+You need node.js installed on your machine to run this project.
 
 ## Install and run
 
