@@ -7,7 +7,7 @@ You need node.js installed on your machine to run this project.
 
 
 	# clone
-	$ git clone https:#github.com/revington/node-kibana.git
+	$ git clone https://github.com/revington/node-kibana.git
 	# cd to project
 	$ cd node-kibana
 	# install dependencies
